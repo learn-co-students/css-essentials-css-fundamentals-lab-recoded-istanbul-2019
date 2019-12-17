@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+*{
+  text-align: center;
+  margin: auto;
+}
+
+#featured-property p{
+  width: 800px;
+  text-align: center;
+  
+}
+#details{
+display: flex;
+background-color: red;
+
+}
+div{
+  text-align: center;
+  width: auto;
+  /* position: absolute; */
+  /* bottom: auto; */
+}
