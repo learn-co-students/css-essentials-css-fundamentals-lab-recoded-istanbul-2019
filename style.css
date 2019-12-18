@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+color: red;
+text-align: center;
+}
+
+img {
+  position: center;
+}
+
+navbar a {
+  padding: 10px;
+
+}
+
+figcaption {
+  font-size: 12px;
+}
+
+#featured-property {
+  text-align: center;
+  width: 800px;
+
+}
+#details {
+  display: block;
+
+}
+#details div {
+  float: left;
+}
+
+.bura {
+  background: aquamarine;
+  text-align: center;
+  width: 25%;
+}
