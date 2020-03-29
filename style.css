@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+  
+}
+#featured-property {
+  
+  margin: auto;
+  text-align: center;
+  
+}
+header a {
+  background-color: rgb(173, 173, 173);
+  padding-left: 10px;
+  padding-right: 10px;
+}
+figcaption {
+  font-size: 12pt;
+}
+#featured-property p {
+  width: 800px;
+  margin: auto;
+}
+section#details  {
+  display:block;
+width: 100%;
+margin: 0px;
+
+}
+#details {
+  display: block;
+  
+  
+}
+div {
+  background-color: red;
+  float: left;
+  text-align: center;;
+  width: 25%;
+}
